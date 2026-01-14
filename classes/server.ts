@@ -35,8 +35,11 @@ export default class Server {
     private escucharSockets() {
         console.log('Escuchando conexiones - sockets');
         this.io.on('connection', cliente => {
-            console.log('Cliente conectado');
 
+            //PARA PODER OCUPAR LA PARTE DE REGISTRO EN SOCKET.TS DESCOMENTAREA LA PARE DE ABAJO
+            //socket.conectarCliente(cliente);
+
+            console.log('Cliente conectado');
             // Manejadores de eventos de sockets
             socket.mensaje(cliente, this.io);
             socket.desconectar(cliente);
@@ -47,3 +50,8 @@ export default class Server {
         this.httpServer.listen(this.port, callback);
     }
 }
+
+
+
+
+

@@ -1,0 +1,226 @@
+ACCIÓN: Cliente Conectado | ID: P73uzcpbLNFcaRwGAAAB | Fecha: 14/1/2026, 10:31:17 a. m.
+ACCIÓN: Cliente Conectado | ID: LQPAjYGL3dn0AS-DAAAD | Fecha: 14/1/2026, 10:31:25 a. m.
+ACCIÓN: Cliente Conectado | ID: 91WuHuKunPIRrXWtAAAF | Fecha: 14/1/2026, 10:31:38 a. m.
+ACCIÓN: Cliente Conectado | ID: j6QPSJJC-bxvYo52AAAH | Fecha: 14/1/2026, 10:31:42 a. m.
+ACCIÓN: Cliente Desconectado
+ID: j6QPSJJC-bxvYo52AAAH
+Inicio de sesión: 14/1/2026, 10:31:42 a. m.| Fin de sesión: 14/1/2026, 10:33:16 a. m.
+Tiempo total conectado: 1 min 34 segundos
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: 91WuHuKunPIRrXWtAAAF
+Inicio de sesión: 14/1/2026, 10:31:38 a. m.| Fin de sesión: 14/1/2026, 10:36:48 a. m.
+Tiempo total conectado: 5 min 9 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: payCMQUZQgMwSyTaAAAJ | Fecha: 14/1/2026, 10:36:48 a. m.
+ACCIÓN: Cliente Desconectado
+ID: payCMQUZQgMwSyTaAAAJ
+Inicio de sesión: 14/1/2026, 10:36:48 a. m.| Fin de sesión: 14/1/2026, 10:36:49 a. m.
+Tiempo total conectado: 1 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: T1T1sdgjrC1saprDAAAL | Fecha: 14/1/2026, 10:36:49 a. m.
+ACCIÓN: Cliente Desconectado
+ID: T1T1sdgjrC1saprDAAAL
+Inicio de sesión: 14/1/2026, 10:36:49 a. m.| Fin de sesión: 14/1/2026, 10:36:49 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: QHY_S0ufGicb2UpFAAAN | Fecha: 14/1/2026, 10:36:49 a. m.
+ACCIÓN: Cliente Desconectado
+ID: QHY_S0ufGicb2UpFAAAN
+Inicio de sesión: 14/1/2026, 10:36:49 a. m.| Fin de sesión: 14/1/2026, 10:36:50 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: yMWBvohUxgbvGUrjAAAP | Fecha: 14/1/2026, 10:36:50 a. m.
+ACCIÓN: Cliente Desconectado
+ID: yMWBvohUxgbvGUrjAAAP
+Inicio de sesión: 14/1/2026, 10:36:50 a. m.| Fin de sesión: 14/1/2026, 10:36:50 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: jN7UnzCh_8V2IE_FAAAR | Fecha: 14/1/2026, 10:36:50 a. m.
+ACCIÓN: Cliente Desconectado
+ID: jN7UnzCh_8V2IE_FAAAR
+Inicio de sesión: 14/1/2026, 10:36:50 a. m.| Fin de sesión: 14/1/2026, 10:36:50 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: semMRBBub_ceMj1OAAAT | Fecha: 14/1/2026, 10:36:50 a. m.
+ACCIÓN: Cliente Desconectado
+ID: semMRBBub_ceMj1OAAAT
+Inicio de sesión: 14/1/2026, 10:36:50 a. m.| Fin de sesión: 14/1/2026, 10:36:50 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: t9AQur7Y__UWWljkAAAV | Fecha: 14/1/2026, 10:36:50 a. m.
+ACCIÓN: Cliente Desconectado
+ID: t9AQur7Y__UWWljkAAAV
+Inicio de sesión: 14/1/2026, 10:36:50 a. m.| Fin de sesión: 14/1/2026, 10:36:50 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: 3w3hD3rYYeiKifN8AAAX | Fecha: 14/1/2026, 10:36:50 a. m.
+ACCIÓN: Cliente Desconectado
+ID: 3w3hD3rYYeiKifN8AAAX
+Inicio de sesión: 14/1/2026, 10:36:50 a. m.| Fin de sesión: 14/1/2026, 10:36:51 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: izzMRTwAUXnOU1guAAAZ | Fecha: 14/1/2026, 10:36:51 a. m.
+ACCIÓN: Cliente Desconectado
+ID: izzMRTwAUXnOU1guAAAZ
+Inicio de sesión: 14/1/2026, 10:36:51 a. m.| Fin de sesión: 14/1/2026, 10:36:51 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: N0cSolyTWgki8W_mAAAb | Fecha: 14/1/2026, 10:36:51 a. m.
+ACCIÓN: Cliente Desconectado
+ID: N0cSolyTWgki8W_mAAAb
+Inicio de sesión: 14/1/2026, 10:36:51 a. m.| Fin de sesión: 14/1/2026, 10:36:52 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: ilSg9FAmpxT6h6haAAAd | Fecha: 14/1/2026, 10:36:52 a. m.
+ACCIÓN: Cliente Desconectado
+ID: ilSg9FAmpxT6h6haAAAd
+Inicio de sesión: 14/1/2026, 10:36:52 a. m.| Fin de sesión: 14/1/2026, 10:36:52 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: 9yqs_UqZq40zbY-9AAAf | Fecha: 14/1/2026, 10:36:52 a. m.
+ACCIÓN: Cliente Desconectado
+ID: 9yqs_UqZq40zbY-9AAAf
+Inicio de sesión: 14/1/2026, 10:36:52 a. m.| Fin de sesión: 14/1/2026, 10:36:52 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: DmBqPthrZVXVOz3-AAAh | Fecha: 14/1/2026, 10:36:52 a. m.
+ACCIÓN: Cliente Desconectado
+ID: DmBqPthrZVXVOz3-AAAh
+Inicio de sesión: 14/1/2026, 10:36:52 a. m.| Fin de sesión: 14/1/2026, 10:36:53 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: GTvLSy4pqn0ef41DAAAj | Fecha: 14/1/2026, 10:36:53 a. m.
+ACCIÓN: Cliente Desconectado
+ID: GTvLSy4pqn0ef41DAAAj
+Inicio de sesión: 14/1/2026, 10:36:53 a. m.| Fin de sesión: 14/1/2026, 10:37:43 a. m.
+Tiempo total conectado: 50 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: Yo2FVPh1w36C8WDAAAAl | Fecha: 14/1/2026, 10:37:44 a. m.
+ACCIÓN: Cliente Desconectado
+ID: Yo2FVPh1w36C8WDAAAAl
+Inicio de sesión: 14/1/2026, 10:37:44 a. m.| Fin de sesión: 14/1/2026, 10:37:44 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: bFd91njYOaSDrOe7AAAn | Fecha: 14/1/2026, 10:37:44 a. m.
+ACCIÓN: Cliente Desconectado
+ID: bFd91njYOaSDrOe7AAAn
+Inicio de sesión: 14/1/2026, 10:37:44 a. m.| Fin de sesión: 14/1/2026, 10:37:44 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: oLUTPv1NzdQAXp2qAAAp | Fecha: 14/1/2026, 10:37:44 a. m.
+ACCIÓN: Cliente Desconectado
+ID: oLUTPv1NzdQAXp2qAAAp
+Inicio de sesión: 14/1/2026, 10:37:44 a. m.| Fin de sesión: 14/1/2026, 10:37:45 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: Di5_TXfHUD9qMl3zAAAr | Fecha: 14/1/2026, 10:37:45 a. m.
+ACCIÓN: Cliente Desconectado
+ID: Di5_TXfHUD9qMl3zAAAr
+Inicio de sesión: 14/1/2026, 10:37:45 a. m.| Fin de sesión: 14/1/2026, 10:37:45 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: r87Ps2JMw0oTt5YaAAAt | Fecha: 14/1/2026, 10:37:45 a. m.
+ACCIÓN: Cliente Desconectado
+ID: r87Ps2JMw0oTt5YaAAAt
+Inicio de sesión: 14/1/2026, 10:37:45 a. m.| Fin de sesión: 14/1/2026, 10:37:45 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: nfvdI7edPDnQQmufAAAv | Fecha: 14/1/2026, 10:37:45 a. m.
+ACCIÓN: Cliente Desconectado
+ID: nfvdI7edPDnQQmufAAAv
+Inicio de sesión: 14/1/2026, 10:37:45 a. m.| Fin de sesión: 14/1/2026, 10:37:45 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: qNiGZYDG4AK1SL-zAAAx | Fecha: 14/1/2026, 10:37:45 a. m.
+ACCIÓN: Cliente Desconectado
+ID: qNiGZYDG4AK1SL-zAAAx
+Inicio de sesión: 14/1/2026, 10:37:45 a. m.| Fin de sesión: 14/1/2026, 10:45:49 a. m.
+Tiempo total conectado: 8 min 3 segundos
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: LQPAjYGL3dn0AS-DAAAD
+Inicio de sesión: 14/1/2026, 10:31:25 a. m.| Fin de sesión: 14/1/2026, 10:45:51 a. m.
+Tiempo total conectado: 14 min 26 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: _3_VlZPgXzqT_oM9AAAB | Fecha: 14/1/2026, 10:47:12 a. m.
+ACCIÓN: Cliente Conectado | ID: scWQlacgeh-wxjcMAAAB | Fecha: 14/1/2026, 10:49:06 a. m.
+ACCIÓN: Cliente Conectado | ID: nXfs4RVcR2bN-uleAAAC | Fecha: 14/1/2026, 11:11:27 a. m.
+ACCIÓN: Cliente Conectado | ID: nDMopRIfo3Jna7C9AAAD | Fecha: 14/1/2026, 11:11:27 a. m.
+ACCIÓN: Cliente Conectado | ID: ocQEb1o3dxqdXoyyAAAB | Fecha: 14/1/2026, 11:12:26 a. m.
+ACCIÓN: Cliente Conectado | ID: 6hUuM1wc4pHdbOWbAAAD | Fecha: 14/1/2026, 11:12:26 a. m.
+ACCIÓN: Cliente Conectado | ID: SVOHkuimlX9bqOlDAAAF | Fecha: 14/1/2026, 11:12:36 a. m.
+ACCIÓN: Cliente Desconectado
+ID: SVOHkuimlX9bqOlDAAAF
+Inicio de sesión: 14/1/2026, 11:12:36 a. m.| Fin de sesión: 14/1/2026, 11:12:36 a. m.
+Tiempo total conectado: 0 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: w8tm2vAQ1srWnJ5eAAAH | Fecha: 14/1/2026, 11:12:39 a. m.
+ACCIÓN: Cliente Conectado | ID: 1eZEZbKq6QnEr0rgAAAJ | Fecha: 14/1/2026, 11:12:42 a. m.
+ACCIÓN: Cliente Conectado | ID: vJnoQz7SUT4Q4zPlAAAL | Fecha: 14/1/2026, 11:14:06 a. m.
+ACCIÓN: Cliente Desconectado
+ID: vJnoQz7SUT4Q4zPlAAAL
+Inicio de sesión: 14/1/2026, 11:14:06 a. m.| Fin de sesión: 14/1/2026, 11:14:13 a. m.
+Tiempo total conectado: 7 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: SAkxxUyOIPD_UjEMAAAN | Fecha: 14/1/2026, 11:14:13 a. m.
+ACCIÓN: Cliente Desconectado
+ID: SAkxxUyOIPD_UjEMAAAN
+Inicio de sesión: 14/1/2026, 11:14:13 a. m.| Fin de sesión: 14/1/2026, 11:14:20 a. m.
+Tiempo total conectado: 6 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: w9g-T5uiCJQv4HzQAAAP | Fecha: 14/1/2026, 11:14:20 a. m.
+ACCIÓN: Cliente Desconectado
+ID: w9g-T5uiCJQv4HzQAAAP
+Inicio de sesión: 14/1/2026, 11:14:20 a. m.| Fin de sesión: 14/1/2026, 11:17:25 a. m.
+Tiempo total conectado: 3 min 5 segundos
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: 1eZEZbKq6QnEr0rgAAAJ
+Inicio de sesión: 14/1/2026, 11:12:42 a. m.| Fin de sesión: 14/1/2026, 11:17:34 a. m.
+Tiempo total conectado: 4 min 51 segundos
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: w8tm2vAQ1srWnJ5eAAAH
+Inicio de sesión: 14/1/2026, 11:12:39 a. m.| Fin de sesión: 14/1/2026, 11:17:35 a. m.
+Tiempo total conectado: 4 min 56 segundos
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: ocQEb1o3dxqdXoyyAAAB
+Inicio de sesión: 14/1/2026, 11:12:26 a. m.| Fin de sesión: 14/1/2026, 11:17:38 a. m.
+Tiempo total conectado: 5 min 11 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: YGWNW3co8wbjnfMGAAAR | Fecha: 14/1/2026, 11:18:41 a. m.
+ACCIÓN: Cliente Desconectado
+ID: YGWNW3co8wbjnfMGAAAR
+Inicio de sesión: 14/1/2026, 11:18:41 a. m.| Fin de sesión: 14/1/2026, 11:18:51 a. m.
+Tiempo total conectado: 9 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: jhdS-aAnJEDmi_jkAAAT | Fecha: 14/1/2026, 11:19:10 a. m.
+ACCIÓN: Cliente Conectado | ID: 6W0L4zt89DdPnoISAAAV | Fecha: 14/1/2026, 11:19:17 a. m.
+ACCIÓN: Cliente Desconectado
+ID: 6W0L4zt89DdPnoISAAAV
+Inicio de sesión: 14/1/2026, 11:19:17 a. m.| Fin de sesión: 14/1/2026, 11:19:20 a. m.
+Tiempo total conectado: 3 segundos
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: jhdS-aAnJEDmi_jkAAAT
+Inicio de sesión: 14/1/2026, 11:19:10 a. m.| Fin de sesión: 14/1/2026, 11:19:22 a. m.
+Tiempo total conectado: 11 segundos
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: 5K_8UoKzdA2DUQ0hAAAB | Fecha: 14/1/2026, 11:27:35 a. m.
+ACCIÓN: Cliente Conectado | ID: WUKlHPmxgyHn_yeqAAAB | Fecha: 14/1/2026, 11:46:57 a. m.
+ACCIÓN: Cliente Desconectado
+ID: WUKlHPmxgyHn_yeqAAAB
+Inicio: 14/1/2026, 11:46:57 a. m. | Fin: 14/1/2026, 11:48:08 a. m.
+Tiempo total: 0h 1m 10s
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: iGbO-UwAhjU1XNdBAAAD | Fecha: 14/1/2026, 11:48:26 a. m.
+ACCIÓN: Cliente Desconectado
+ID: iGbO-UwAhjU1XNdBAAAD
+Inicio: 14/1/2026, 11:48:26 a. m. | Fin: 14/1/2026, 1:12:26 p. m.
+Tiempo total: 1h 24m 0s
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: SsN_6-iu41Qy7poUAAAF | Fecha: 14/1/2026, 1:19:54 p. m.
+ACCIÓN: Cliente Conectado | ID: 6TzINo4ileJV9I89AAAB | Fecha: 14/1/2026, 1:36:20 p. m.
+ACCIÓN: Cliente Conectado | ID: DJmNn8CgQ3dBG7ZYAAAB | Fecha: 14/1/2026, 1:37:31 p. m.
