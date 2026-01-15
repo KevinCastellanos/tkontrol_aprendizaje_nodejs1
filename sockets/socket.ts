@@ -29,7 +29,8 @@ export const mensaje = (cliente: Socket, io: Server) => {
 
 
 // // // DETECTA CUANDO INGRESA, CUANDO SALE Y LO REGISTRA EN DATA :HISTORIAL.TXT 
-// // //PARA OCUPAR SE DESCOMENTA Y TAMBIEN SE DESCOMENTAREA UNA LINEA EN SERVER.TS
+// // //PARA OCUPAR SE DESCOMENTA Y TAMBIEN SE DESCOMENTAREA UNA LINEA 
+// // EN SERVER.TS
 //          //////   socket.conectarCliente(cliente);
 
 

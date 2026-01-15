@@ -224,3 +224,40 @@ Tiempo total: 1h 24m 0s
 ACCIÓN: Cliente Conectado | ID: SsN_6-iu41Qy7poUAAAF | Fecha: 14/1/2026, 1:19:54 p. m.
 ACCIÓN: Cliente Conectado | ID: 6TzINo4ileJV9I89AAAB | Fecha: 14/1/2026, 1:36:20 p. m.
 ACCIÓN: Cliente Conectado | ID: DJmNn8CgQ3dBG7ZYAAAB | Fecha: 14/1/2026, 1:37:31 p. m.
+ACCIÓN: Cliente Conectado | ID: 9grh4hnNoK0ZBil0AAAB | Fecha: 14/1/2026, 5:08:35 p. m.
+ACCIÓN: Cliente Conectado | ID: 7DfUdpCAD_fOMzWIAAAD | Fecha: 14/1/2026, 5:08:36 p. m.
+ACCIÓN: Cliente Desconectado
+ID: 9grh4hnNoK0ZBil0AAAB
+Inicio: 14/1/2026, 5:08:35 p. m. | Fin: 14/1/2026, 5:09:09 p. m.
+Tiempo total: 0h 0m 34s
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: rMbfz3T_3fB7jPaZAAAF | Fecha: 14/1/2026, 5:09:10 p. m.
+ACCIÓN: Cliente Desconectado
+ID: rMbfz3T_3fB7jPaZAAAF
+Inicio: 14/1/2026, 5:09:10 p. m. | Fin: 14/1/2026, 5:09:11 p. m.
+Tiempo total: 0h 0m 1s
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: 7DfUdpCAD_fOMzWIAAAD
+Inicio: 14/1/2026, 5:08:36 p. m. | Fin: 14/1/2026, 5:10:18 p. m.
+Tiempo total: 0h 1m 41s
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: KOGTDTIq_YoCnt0oAAAH | Fecha: 14/1/2026, 5:10:18 p. m.
+ACCIÓN: Cliente Conectado | ID: DcOkgmfaiIUaFYXLAAAJ | Fecha: 14/1/2026, 5:10:28 p. m.
+ACCIÓN: Cliente Desconectado
+ID: DcOkgmfaiIUaFYXLAAAJ
+Inicio: 14/1/2026, 5:10:28 p. m. | Fin: 14/1/2026, 5:10:31 p. m.
+Tiempo total: 0h 0m 3s
+------------------------------------------------
+ACCIÓN: Cliente Desconectado
+ID: KOGTDTIq_YoCnt0oAAAH
+Inicio: 14/1/2026, 5:10:18 p. m. | Fin: 14/1/2026, 5:11:09 p. m.
+Tiempo total: 0h 0m 50s
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: XC5A1P_NWj7h6QdmAAAL | Fecha: 14/1/2026, 5:11:09 p. m.
+ACCIÓN: Cliente Desconectado
+ID: XC5A1P_NWj7h6QdmAAAL
+Inicio: 14/1/2026, 5:11:09 p. m. | Fin: 14/1/2026, 5:11:17 p. m.
+Tiempo total: 0h 0m 7s
+------------------------------------------------
+ACCIÓN: Cliente Conectado | ID: vyzKSAVRg3HsUoGsAAAN | Fecha: 14/1/2026, 5:11:17 p. m.
