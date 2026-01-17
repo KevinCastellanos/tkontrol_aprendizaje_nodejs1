@@ -36,13 +36,29 @@ export default class Server {
         console.log('Escuchando conexiones - sockets');
         this.io.on('connection', cliente => {
 
+            console.log(cliente.id);
+
+
+            //Conectar Cliente
+            socket.conectarCliente(cliente);
+
+            // Configurar usuario
+            socket.configurarUsuario( cliente, this.io); 
+
+
             //PARA PODER OCUPAR LA PARTE DE REGISTRO EN SOCKET.TS DESCOMENTAREA LA PARE DE ABAJO
             //socket.conectarCliente(cliente);
 
-            console.log('Cliente conectado');
+            //Esta linea de abajo era para ver cuando el cliente se conectaba pero cambio porque se va a pasar que se genere un listado.
+            //console.log('Cliente conectado');
+
             // Manejadores de eventos de sockets
             socket.mensaje(cliente, this.io);
+
+            //desconectar cliente
             socket.desconectar(cliente);
+
+            
         });
     }
 

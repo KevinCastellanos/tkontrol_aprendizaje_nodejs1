@@ -1,27 +1,68 @@
 import type { Socket } from 'socket.io';
 import { Server } from   'socket.io'
+import { Usuario } from '../classes/usuarios.js';
+import { UsuarioLista } from '../classes/usuarios-lista.js';
 
 
+export const usuariosConectados = new UsuarioLista();
+
+export const conectarCliente = ( cliente: Socket ) =>{
+    const usuario = new Usuario( cliente.id );
+    usuariosConectados.agregar( usuario );
+}
+
+
+//Funciones flechas en JavaScript
 export const desconectar = ( cliente: Socket) => {
 
     cliente.on('disconnect' , () => {
         console.log('Cliente desconectado');
+
+        usuariosConectados.borrarUsuario( cliente.id);
     });
 
 }
 
+
+
 //Escuchar mensajes
+// Escuchar mensajes
 export const mensaje = (cliente: Socket, io: Server) => {
 
-    cliente.on(' mensaje ', (payload: { de: string, cuerpo: string }) => {
-  
-        console.log('Mensaje recibido', payload );
+    cliente.on('mensaje', (payload: { de: string, cuerpo: string }) => {
+
+        console.log('Mensaje recibido', payload);
 
         io.emit('mensaje-nuevo', payload);
     });
 
-}
+};
 
+
+
+   export const configurarUsuario = (cliente: Socket, io: Server) => {
+    // Agregamos el argumento 'callback' para responder al cliente
+    cliente.on('configurar-usuario', (payload: { nombre: string }, callback: Function) => { 
+        
+       // Verificamos que el payload tenga el nombre
+        if (!payload || !payload.nombre) {
+            console.log('Error: No se recibió el nombre en el payload');
+            return callback({ ok: false, mensaje: 'El nombre es obligatorio' });
+        }
+
+
+        // Actualizamos en tu lista de usuarios
+        usuariosConectados.actualizarNombre(cliente.id, payload.nombre);
+        
+        console.log('Usuario', payload.nombre, 'configurado');
+
+        // Respondemos al cliente que todo salió bien
+        callback({
+            ok: true,
+            mensaje: `Usuario ${payload.nombre} configurado`
+        });
+    });
+}
 
 
 
@@ -40,6 +81,8 @@ export const mensaje = (cliente: Socket, io: Server) => {
 // import fs from 'fs';
 // import path from 'path';
 // import { fileURLToPath } from 'url'; // Necesario para ES Modules
+//import { Usuario }  from '../classes/usuarios';
+//mport { configurarUsuario } from './socket';
 
 // // Configuración de rutas absoluta para ES Modules
 // const __filename = fileURLToPath(import.meta.url);
