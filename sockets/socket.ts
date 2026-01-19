@@ -6,19 +6,36 @@ import { UsuarioLista } from '../classes/usuarios-lista.js';
 
 export const usuariosConectados = new UsuarioLista();
 
-export const conectarCliente = ( cliente: Socket ) =>{
+
+//Funciones flechas en JavaScript
+
+//Conectar cliente 
+export const conectarCliente = ( cliente: Socket, io: Server ) =>{
     const usuario = new Usuario( cliente.id );
     usuariosConectados.agregar( usuario );
+    io.emit('usuarios-activos', usuariosConectados.getLista());
+    emitirUsuariosActivos(io);
 }
 
 
-//Funciones flechas en JavaScript
-export const desconectar = ( cliente: Socket) => {
+//emitirUsuariosActivos ayuda para aactualizar en front-end de lista-usuario.ts a actualizarse
+export const emitirUsuariosActivos = (io: Server) => {
+  io.emit('usuarios-activos', usuariosConectados.getLista());
+
+};
+
+
+
+//Desconectar 
+export const desconectar = ( cliente: Socket, io: Server) => {
 
     cliente.on('disconnect' , () => {
         console.log('Cliente desconectado');
 
         usuariosConectados.borrarUsuario( cliente.id);
+        io.emit('usuarios-activos', usuariosConectados.getLista());
+            emitirUsuariosActivos(io);
+
     });
 
 }
@@ -53,6 +70,8 @@ export const mensaje = (cliente: Socket, io: Server) => {
 
         // Actualizamos en tu lista de usuarios
         usuariosConectados.actualizarNombre(cliente.id, payload.nombre);
+            emitirUsuariosActivos(io);
+
         
         console.log('Usuario', payload.nombre, 'configurado');
 
@@ -62,6 +81,8 @@ export const mensaje = (cliente: Socket, io: Server) => {
             mensaje: `Usuario ${payload.nombre} configurado`
         });
     });
+
+    
 }
 
 

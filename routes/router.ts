@@ -2,6 +2,8 @@
 import { Router, } from 'express';
 import type { Request, Response } from 'express';
 import Server from '../classes/server.js';
+import { Socket } from 'socket.io';
+import { usuariosConectados } from '../sockets/socket.js';
 
 const router = Router();
 
@@ -14,7 +16,7 @@ router.get ('/mensajes', (req: Request, res: Response ) => {
 
 });
 
-//mensajes al general a traves de postman envia y se puede visualizar en el frontend del Angular
+//mensajes al general a traves de postman envia y se puede visualizar en el frontend del Angular 
 router.post('/mensajes', ( req: Request, res: Response) =>{
 
   const cuerpo = req.body.cuerpo;
@@ -69,6 +71,51 @@ router.post ('/mensajes/:id', (req: Request, res: Response ) => {
 }); 
 
 
+//Servicio para obtener todos los IDs de los ususarios.
+
+
+
+  // Servicio para obtener todos los IDs de los usuarios de forma moderna
+router.get('/usuarios', async (req: Request, res: Response) => {
+    
+    const server = Server.instance;
+
+    try {
+        // Obtenemos los sockets conectados actualmente
+        const clientes = await server.io.fetchSockets();
+        
+        // Mapeamos para obtener solo los IDs de los sockets conectados
+        const  id = clientes.map(cliente => cliente.id);
+
+        res.json({
+            ok: true,
+            clientes: id
+        });
+        
+    } catch (err) {
+        res.json({
+            ok: false,
+            err
+        });
+    }
+});
+
+//OBTENER USUARIOS Y SUS NOMBRES
+
+router.get('/usuarios/detalle', ( req: Request, res: Response) => {
+  
+
+   res.json({
+      ok: true,
+      clientes: usuariosConectados.getLista()
+   });
+
+});
+
+export default router;
+
+
+
 
 //numro agregado y tambien id que se almacena en historial.txt
 // router.post('/mensajes', (req: Request, res: Response) => {
@@ -110,7 +157,7 @@ router.post ('/mensajes/:id', (req: Request, res: Response ) => {
 // });
 
 
- export default router;
+// export default router;
 
 
 
